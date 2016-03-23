@@ -1,0 +1,28 @@
+name: iamOscar
+favicon: null
+layout_spectrum: 0.2628548771608621
+typography_spectrum: 0.39237643918022513
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4042934619355947
+  lightness: 0.3054850394837558
+  saturation: 0.9328827732242644
+  rhythmicContrast: 0.8488974862266332
+purpose: []
