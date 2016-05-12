@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[iamOscar]]></title>
         <description><![CDATA[iamOscar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/iamoscar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 14:50:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 20:53:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/iamoscar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The slab of wood that makes the bar top comes into view. I lift my body from a hunched over positon, carefully moving my head because the rush of blood can sometimes cause dizziness. The same napkin that keeps falling everytime I turned around to look at the ananlog clock face hanging on the wall.</p>]]></description>
+            <link>https://thegrid.ai/iamoscar/the-slab-of-wood-that-makes-the-bar-top-comes-into-view-i-l/index.html</link>
+            <guid isPermaLink="false">b73726c7-2ffd-496a-8e76-14e33df20c53</guid>
+            <pubDate>Thu, 12 May 2016 20:53:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The launch</p>]]></description>
-            <link>undefinedthe-launch/index.html</link>
+            <link>https://thegrid.ai/iamoscar/the-launch/index.html</link>
             <guid isPermaLink="false">76358d58-a870-4f04-a5a9-be12a68eedaa</guid>
             <pubDate>Wed, 23 Mar 2016 14:50:03 GMT</pubDate>
         </item>
